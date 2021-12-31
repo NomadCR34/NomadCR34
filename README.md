@@ -1,5 +1,4 @@
--  Hi, I’m Amin Rooholamini(@NomadCR34) and I am Android Developer
--  I’m currently learning Android Espresso
+-  Hi, I’m Amin Rooholamini(@NomadCR34)
 -  I’m interested in Programing ,Video games and movies
 -  How to reach me ? Email me at Nomad.cr34@gmail.com
 
